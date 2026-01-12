@@ -880,7 +880,7 @@ Good luck with CRTO! 🚀
 ### Recommended Reading:
 - [MITRE ATT&CK Framework](https://attack.mitre.org/) - Understand adversary techniques
 - [Cobalt Strike Documentation](https://www.cobaltstrike.com/help) - Official documentation
-- [Red Team Field Manual](https://www.amazon.com/Red-Team-Field-Manual-v3/dp/154101636X) - Quick reference guide
+- [IRED TEAM](https://www.ired.team/) - Goldmine Blog
 
 ### Practice:
 - TryHackMe Red Team Path
@@ -894,7 +894,7 @@ Good luck with CRTO! 🚀
 
 ## 🤝 Contributing
 
-Found an error or have improvements? Contributions are welcome!
+Found an error or have improvements? Possible since some of the commands were picked from the existing repository on internet. Contributions are welcome!
 
 1. Fork this repository
 2. Create a feature branch
